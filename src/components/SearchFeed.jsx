@@ -16,7 +16,7 @@ const SearchFeed = ({ isDarkMode }) => {
   return (
     <Stack direction="column" sx={{ height: '100%', backgroundColor: isDarkMode ? '#fff' : '#000', color: isDarkMode ? '#000' : '#fff' }}>
       <Typography variant="h5" fontWeight="bold" sx={{ml:{xs:2,sm:2,md:3},mb:2}}>
-        Search Results for: <span style={{ color: '#FC1503' }}>{searchTerm}</span> videos
+        Search Results for: <span style={{ color: '#166AE4' }}>{searchTerm}</span> videos
       </Typography>
       <Box sx={{ overflowY: 'auto', flexGrow: 1,margin:2 }}>
         {videos.length > 0 ? (
