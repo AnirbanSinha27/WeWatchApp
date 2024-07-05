@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/f814XSx/We-Watch-Logo-1.png';
+export const logo = 'https://ibb.co/DkjQdyL/We-Watch-Logo-3.png';
 
 
 export const categories = [
